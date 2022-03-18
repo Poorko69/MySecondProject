@@ -1,0 +1,52 @@
+/* This is the background */
+body {
+
+	background-color: rgba(35, 42, 44, 0.815);
+  }
+  h1.outset {border-style: outset;}
+  /* This is made for  the titles */
+  h1 {
+	color: rgb(134, 141, 143);
+	
+  }
+  h2{
+	color: rgb(231, 212, 212);
+	
+
+  }
+  h3 {
+	color: rgb(43, 40, 40);
+	
+  }
+  h4 {
+	color: rgb(46, 42, 51);
+
+  }
+  h5 {
+	color: rgb(240, 168, 12);
+
+  }
+  h6 {
+	color: rgb(226, 204, 7);
+	
+  }
+  p {
+	font-family: roboto;
+	font-size: 20px;
+  }
+  div {
+	background-color: orange;
+  }
+  
+  div.first {
+	opacity: 0.1;
+  }
+  
+  div.second {
+	opacity: 0.3;
+  }
+  
+  div.third {
+	opacity: 0.6;
+  }
+  
